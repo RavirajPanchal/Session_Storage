@@ -1,0 +1,18 @@
+input{
+    height: 30px;
+    width: 25%;
+}
+
+button{
+    height:30px;
+    width: 15%;
+    font-size: 20px;
+}
+
+
+form-group{
+    height: 25px;
+    width: 100px;
+    
+
+}
